@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/domain69/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css",
+    "main.js": "/domain69/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js",
+    "main.js.map": "/domain69/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js.map",
+    "runtime-main.js": "/domain69/RTEwithDragNDrop/static/js/runtime-main.f6240706.js",
+    "runtime-main.js.map": "/domain69/RTEwithDragNDrop/static/js/runtime-main.f6240706.js.map",
+    "static/js/2.b1e4c902.chunk.js": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js",
+    "static/js/2.b1e4c902.chunk.js.map": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.map",
+    "index.html": "/domain69/RTEwithDragNDrop/index.html",
+    "precache-manifest.04babce4f1472e9c094892aba2559072.js": "/domain69/RTEwithDragNDrop/precache-manifest.04babce4f1472e9c094892aba2559072.js",
+    "service-worker.js": "/domain69/RTEwithDragNDrop/service-worker.js",
+    "static/css/main.fa6e1740.chunk.css.map": "/domain69/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css.map",
+    "static/js/2.b1e4c902.chunk.js.LICENSE.txt": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6240706.js",
+    "static/js/2.b1e4c902.chunk.js",
+    "static/css/main.fa6e1740.chunk.css",
+    "static/js/main.42161ce6.chunk.js"
+  ]
+}
