@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/domain69/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css",
-    "main.js": "/domain69/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js",
-    "main.js.map": "/domain69/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js.map",
-    "runtime-main.js": "/domain69/RTEwithDragNDrop/static/js/runtime-main.f6240706.js",
-    "runtime-main.js.map": "/domain69/RTEwithDragNDrop/static/js/runtime-main.f6240706.js.map",
-    "static/js/2.b1e4c902.chunk.js": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js",
-    "static/js/2.b1e4c902.chunk.js.map": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.map",
-    "index.html": "/domain69/RTEwithDragNDrop/index.html",
-    "precache-manifest.04babce4f1472e9c094892aba2559072.js": "/domain69/RTEwithDragNDrop/precache-manifest.04babce4f1472e9c094892aba2559072.js",
-    "service-worker.js": "/domain69/RTEwithDragNDrop/service-worker.js",
-    "static/css/main.fa6e1740.chunk.css.map": "/domain69/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css.map",
-    "static/js/2.b1e4c902.chunk.js.LICENSE.txt": "/domain69/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.LICENSE.txt"
+    "main.css": "/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css",
+    "main.js": "/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js",
+    "main.js.map": "/RTEwithDragNDrop/static/js/main.42161ce6.chunk.js.map",
+    "runtime-main.js": "/RTEwithDragNDrop/static/js/runtime-main.54b700e7.js",
+    "runtime-main.js.map": "/RTEwithDragNDrop/static/js/runtime-main.54b700e7.js.map",
+    "static/js/2.b1e4c902.chunk.js": "/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js",
+    "static/js/2.b1e4c902.chunk.js.map": "/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.map",
+    "index.html": "/RTEwithDragNDrop/index.html",
+    "precache-manifest.6fb10562b8c303b47bc4d54cd1306c9e.js": "/RTEwithDragNDrop/precache-manifest.6fb10562b8c303b47bc4d54cd1306c9e.js",
+    "service-worker.js": "/RTEwithDragNDrop/service-worker.js",
+    "static/css/main.fa6e1740.chunk.css.map": "/RTEwithDragNDrop/static/css/main.fa6e1740.chunk.css.map",
+    "static/js/2.b1e4c902.chunk.js.LICENSE.txt": "/RTEwithDragNDrop/static/js/2.b1e4c902.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6240706.js",
+    "static/js/runtime-main.54b700e7.js",
     "static/js/2.b1e4c902.chunk.js",
     "static/css/main.fa6e1740.chunk.css",
     "static/js/main.42161ce6.chunk.js"
