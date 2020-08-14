@@ -1,6 +1,6 @@
 {
-  "name": "contentstack",
   "homepage": "http://domain69.github.io/RTEwithDragNDrop",
+  "name": "contentstack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
